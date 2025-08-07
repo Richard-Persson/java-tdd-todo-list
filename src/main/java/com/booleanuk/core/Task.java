@@ -20,6 +20,7 @@ public class Task {
     }
 
     public void changeStatus(String newStatus){
+        this.status = newStatus;
     }
 
 
